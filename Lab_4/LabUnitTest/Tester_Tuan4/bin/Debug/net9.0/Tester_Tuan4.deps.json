@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tester_Tuan4/1.0.0": {
+        "runtime": {
+          "Tester_Tuan4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tester_Tuan4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

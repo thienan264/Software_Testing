@@ -1,0 +1,12 @@
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/bin/Debug/net9.0/Tester_Tuan4.deps.json
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/bin/Debug/net9.0/Tester_Tuan4.dll
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/bin/Debug/net9.0/Tester_Tuan4.pdb
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.AssemblyInfoInputs.cache
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.AssemblyInfo.cs
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.csproj.CoreCompileInputs.cache
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.sourcelink.json
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.dll
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/refint/Tester_Tuan4.dll
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/Tester_Tuan4.pdb
+/Users/thienan/Tester_Tuan4/Tester_Tuan4/obj/Debug/net9.0/ref/Tester_Tuan4.dll
