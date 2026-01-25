@@ -1,0 +1,10 @@
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\bin\Debug\OrganizeationApp.exe.config
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\bin\Debug\OrganizeationApp.exe
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\bin\Debug\OrganizeationApp.pdb
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.csproj.AssemblyReference.cache
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.Properties.Resources.resources
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.csproj.GenerateResource.cache
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.csproj.CoreCompileInputs.cache
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.exe
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.pdb
+C:\Users\phama\source\repos\OrganizeationApp\OrganizeationApp\obj\Debug\OrganizeationApp.exe.config
