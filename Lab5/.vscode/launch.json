@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run PaymentForm (JDBC)",
+      "request": "launch",
+      "mainClass": "fpoly.junit.PaymentForm",
+      "projectName": "demo",
+      "classPaths": [
+        "${workspaceFolder}/demo/target/classes",
+        "${workspaceFolder}/demo/lib/*"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Run TestDbConnect (JDBC)",
+      "request": "launch",
+      "mainClass": "fpoly.junit.TestDbConnect",
+      "projectName": "demo",
+      "classPaths": [
+        "${workspaceFolder}/demo/target/classes",
+        "${workspaceFolder}/demo/lib/*"
+      ]
+    },
+        {
+      "type": "java",
+      "name": "Run RegisterForm (JDBC)",
+      "request": "launch",
+      "mainClass": "fpoly.junit.RegisterForm",
+      "projectName": "demo",
+      "classPaths": [
+        "${workspaceFolder}/demo/target/classes",
+        "${workspaceFolder}/demo/lib/*"
+      ]
+    }
+  ]
+}
